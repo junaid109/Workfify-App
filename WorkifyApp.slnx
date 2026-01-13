@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="WorkifyApp.ApiService/WorkifyApp.ApiService.csproj" />
+  <Project Path="WorkifyApp.AppHost/WorkifyApp.AppHost.csproj" />
+  <Project Path="WorkifyApp.ServiceDefaults/WorkifyApp.ServiceDefaults.csproj" />
+  <Project Path="WorkifyApp.Tests/WorkifyApp.Tests.csproj" />
+  <Project Path="WorkifyApp.Web/WorkifyApp.Web.csproj" />
+</Solution>
